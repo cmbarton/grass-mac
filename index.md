@@ -1,7 +1,7 @@
 ---
 layout: splash
 ---
-[](/assets/images/‎new_grassmac_spashscreen_transparent.png)
+![](/assets/images/‎new_grassmac_spashscreen_transparent.png)
 ## Fully bundled Mac apps of current GRASS releases
 
 These apps are fully 64 bit applications and include all needed helper programs (dependencies), including Python (version 2.7.x for older binaries and version 3.6 and above for GRASS versions 7.8 and higher) and wxPython (versions 3 and 4). They should work 'out of the box' without any separate "frameworks" being installed, and should work with System Integrity Protection enabled (the default for the Mac - see below).
