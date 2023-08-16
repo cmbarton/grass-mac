@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /posts/
+    url: index
   - title: "Downloads"
     url: /categories/
   - title: "Forums"
