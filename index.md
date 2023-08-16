@@ -1,6 +1,10 @@
 ---
 layout: splash
 excerpt: "Michael Barton"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /images/‎new_grassmac_spashscreen_transparent.png
 ---
 ## Fully bundled Mac apps of current GRASS releases
 
