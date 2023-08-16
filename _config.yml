@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Michael Barton"
-  avatar : "/assets/images/cmb_headshot.jpg"
+  avatar : "/assets/images/cmb_headshot.jpeg"
   bio    : "A complexity scientist who studies long-term dynamics of socioecological systems"
   links:
     - label: "Website"
