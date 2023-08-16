@@ -2,7 +2,7 @@
 layout: splash
 excerpt: "Michael Barton"
 header:
-  overlay_image: /images/‎new_grassmac_spashscreen_transparent.png
+  overlay_image: /assets/images/‎new_grassmac_spashscreen_transparent.png
 ---
 ## Fully bundled Mac apps of current GRASS releases
 
