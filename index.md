@@ -8,8 +8,8 @@ These apps are fully 64 bit applications and include all needed helper programs 
 
 If you are not familiar with ***GRASS GIS***, you should visit the **[ main GRASS site](http://grass.osgeo.org)** and community maintained **[GRASS WIKI](http://grass.osgeo.org/wiki/)** to take a look at its features. Used throughout the world, GRASS is one of the most powerful and comprehensive geospatial analysis, visualization, and modeling tools available. In continuous use and development for over three decades, GRASS is one of the most mature GIS programs in active use and development ....and it is freely available to all. 
 
-<img src="/assets/images/OSGEOlogo.png" />
-
+<img src="/assets/images/OSGEOlogo.png">
+<img src="https://github.com/cmbarton/grass-mac/blob/gh_pages/assets/images/OSGEOlogo.png">
 
 As open source software, the code and all analytical algorithms can be scrutinized and improved. It is developed and maintained by an international team of geospatial scientists who also use the software in their daily work. GRASS is a founding member of the **[OSGeo Foundation](http://osgeo.org)** (Open-Source Geospatial), an umbrella organization that provides a diversity of open-source software solutions for geospatial research, mapping, and interactive use. 
  
