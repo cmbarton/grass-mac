@@ -11,7 +11,7 @@ If you are not familiar with ***GRASS GIS***, you should visit the **[ main GRAS
 <img src="/assets/images/OSGEOlogo.png">
 <img src="https://github.com/cmbarton/grass-mac/gh_pages/assets/images/OSGEOlogo.png">
 
-As open source software, the code and all analytical algorithms can be scrutinized and improved. It is developed and maintained by an international team of geospatial scientists who also use the software in their daily work. GRASS is a founding member of the **[OSGeo Foundation](http://osgeo.org)** (Open-Source Geospatial), an umbrella organization that provides a diversity of open-source software solutions for geospatial research, mapping, and interactive use. 
+![image-left](/assets/images/OSGEOlogo.png){: .align-left} As open source software, the code and all analytical algorithms can be scrutinized and improved. It is developed and maintained by an international team of geospatial scientists who also use the software in their daily work. GRASS is a founding member of the **[OSGeo Foundation](http://osgeo.org)** (Open-Source Geospatial), an umbrella organization that provides a diversity of open-source software solutions for geospatial research, mapping, and interactive use. 
  
 In addition to the Mac, GRASS runs under Linux, Unix, and Windows. Versions for these other platforms can be found at the **[downloads page](http://grass.osgeo.org/download/)** of GRASS main site. There is a very active **[GRASS community](https://grass.osgeo.org/about/community/)** where you can have questions answered, as well as extensive **[help online](https://grass.osgeo.org/learn/ )** and built into the program itself. 
 
