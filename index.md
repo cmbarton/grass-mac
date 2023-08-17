@@ -31,8 +31,8 @@ GRASS GIS was first released on 29 July 1983 by the US Army Corps of Engineers, 
 [Click to watch Capt. James T. Kirk pitch GRASS in 1987](http://grassmac.wikidot.com/local--files/start/1987-07-17-GRASS-GIS_Shatner.mp4){:target="_blank"}  
 (this is an MP4 version of a movie narrated by William Shatner)  
 
-[Here is an article in Wired about this movie](https://www.wired.com/2013/08/shatner-loves-digital-maps/){:target="_blank"}   
+[Here is an article in Wired about this movie](assets/files/1987-07-17-GRASS-GIS_Shatner.mp4){:target="_blank"}   
 
-Here is a copy of the [manual for GRASS 3.0 ](assets/images/grass3_manual.pdf){:target="_blank"}, released in 1989
+Here is a copy of the [manual for GRASS 3.0 ](assets/files/grass3_manual.pdf){:target="_blank"}, released in 1989
 
 And here are links to a [presentation](https://www.youtube.com/watch?v=olRSbZ1UpJI&t=1475s ) by GRASS developer Martin Landa and [slides](https://ctu-geoforall-lab.github.io/grass-gis-talk-foss4g-2023/foss4g2023.html#) summarizing the state of GRASS 8.3, 40 years after the software was first released.
