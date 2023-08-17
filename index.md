@@ -14,7 +14,7 @@ In addition to the Mac, GRASS runs under Linux, Unix, and Windows. Versions for 
 
 ## GRASS Apps for the Mac
 
-Like other GRASS developers, I am a scientist and user of geospatial software, and volunteer my time to the GRASS project. If you use and like this software, I hope you will consider contributing to the project. There are many roles, even if you don't think of yourself as someone who can program. A Google Scholar list of papers reporting research projects using GRASS GIS can be found [here](https://scholar.google.com/citations?hl=en&user=gJ0ZB0cAAAAJ&view_op=list_works&sortby=pubdate).
+[](assets/images/macgrass_logo.png){: .align-left} Like other GRASS developers, I am a scientist and user of geospatial software, and volunteer my time to the GRASS project. If you use and like this software, I hope you will consider contributing to the project. There are many roles, even if you don't think of yourself as someone who can program. A Google Scholar list of papers reporting research projects using GRASS GIS can be found [here](https://scholar.google.com/citations?hl=en&user=gJ0ZB0cAAAAJ&view_op=list_works&sortby=pubdate).
 
 As part of my own research and helping with GRASS development, I compile GRASS source code so that it runs on the Macintosh. I do this when time permits, so my releases can be irregular. But I do try to keep up with major developments and changes in the software. I have made several versions of GRASS Mac apps available on the downloads page.
 
@@ -27,7 +27,7 @@ If you are interested in learning about my research, you can find more informati
 ## Fun GRASS History 
 GRASS GIS was first released on 29 July 1983 by the US Army Corps of Engineers, Construction Engineering Research Laboratories. The lead developers were Michael Shapiro, James Westervelt, Dave Gerdes, Michael Higgins, and Marjorie Larson. GRASS has been in continuous use and development for over 40 years. 
 
-[](assets/images/animated.gif)
+[](assets/images/grass_logo_animated.gif){: .align-left}
 [Click to watch Capt. James T. Kirk pitch GRASS in 1987](http://grassmac.wikidot.com/local--files/start/1987-07-17-GRASS-GIS_Shatner.mp4){:target="_blank"}  
 (this is an MP4 version of a movie narrated by William Shatner)  
 
