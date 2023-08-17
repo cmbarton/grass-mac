@@ -2,7 +2,7 @@
 layout: splash
 ---
 ![](assets/images/‎new_grassmac_spashscreen_transparent.png)
-### _"The world's best GIS for the world's best computers"_
+### _"The world's best GIS for the world's best computers"_ 
 
 ## Fully bundled Mac apps of current GRASS releases
 
