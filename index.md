@@ -8,7 +8,7 @@ These apps are fully 64 bit applications and include all needed helper programs 
 
 If you are not familiar with ***GRASS GIS***, you should visit the **[ main GRASS site](http://grass.osgeo.org)** and community maintained **[GRASS WIKI](http://grass.osgeo.org/wiki/)** to take a look at its features. Used throughout the world, GRASS is one of the most powerful and comprehensive geospatial analysis, visualization, and modeling tools available. In continuous use and development for over three decades, GRASS is one of the most mature GIS programs in active use and development ....and it is freely available to all. 
 
-<img align="left" src="/grass-mac/assets/images/OSGEOlogo.png" width=250> As open source software, the code and all analytical algorithms can be scrutinized and improved. It is developed and maintained by an international team of geospatial scientists who also use the software in their daily work. GRASS is a founding member of the **[OSGeo Foundation](http://osgeo.org)** (Open-Source Geospatial), an umbrella organization that provides a diversity of open-source software solutions for geospatial research, mapping, and interactive use. 
+<img align="left" src="/grass-mac/assets/images/OSGEOlogo.png" width=200> As open source software, the code and all analytical algorithms can be scrutinized and improved. It is developed and maintained by an international team of geospatial scientists who also use the software in their daily work. GRASS is a founding member of the **[OSGeo Foundation](http://osgeo.org)** (Open-Source Geospatial), an umbrella organization that provides a diversity of open-source software solutions for geospatial research, mapping, and interactive use. 
  
 In addition to the Mac, GRASS runs under Linux, Unix, and Windows. Versions for these other platforms can be found at the **[downloads page](http://grass.osgeo.org/download/)** of GRASS main site. There is a very active **[GRASS community](https://grass.osgeo.org/about/community/)** where you can have questions answered, as well as extensive **[help online](https://grass.osgeo.org/learn/ )** and built into the program itself. 
 
@@ -31,8 +31,8 @@ GRASS GIS was first released on 29 July 1983 by the US Army Corps of Engineers, 
 [Click to watch Capt. James T. Kirk pitch GRASS in 1987](http://grassmac.wikidot.com/local--files/start/1987-07-17-GRASS-GIS_Shatner.mp4){:target="_blank"}  
 (this is an MP4 version of a movie narrated by William Shatner)  
 
-[Here is an article in Wired about this movie](https://www.wired.com/2013/08/shatner-loves-digital-maps/)  
+[Here is an article in Wired about this movie](https://www.wired.com/2013/08/shatner-loves-digital-maps/){:target="_blank"}   
 
-Here is a copy of the [manual for GRASS 3.0 ](assets/images/grass3_manual.pdf), released in 1989
+Here is a copy of the [manual for GRASS 3.0 ](assets/images/grass3_manual.pdf){:target="_blank"}, released in 1989
 
 And here are links to a [presentation](https://www.youtube.com/watch?v=olRSbZ1UpJI&t=1475s ) by GRASS developer Martin Landa and [slides](https://ctu-geoforall-lab.github.io/grass-gis-talk-foss4g-2023/foss4g2023.html#) summarizing the state of GRASS 8.3, 40 years after the software was first released.
