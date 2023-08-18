@@ -4,7 +4,7 @@ tags:
   - table of contents
 toc: true
 toc_sticky: true
-page__title: ""
+title: "page title"
 author_profile: false
 sidebar:
 - title: "Download GRASS Binary Apps for the Macintosh"
@@ -82,7 +82,7 @@ The next time you launch GRASS, you should be able to install and compile any ex
 Please report any bugs in the [GRASS issue tracker](https://github.com/OSGeo/grass/issues){:target="_blank"}.  
 
 ## Old Legacy GRASS apps (will not be further updated)
-These releases require you to have installed needed ***[frameworks](_pages/frameworks)*** (AKA dependencies or helper programs) before installing GRASS for the first time. Check the frameworks page to make sure you have the appropriate framework versions.
+These releases require you to have installed needed ***[frameworks](_pages/download-frameworks)*** (AKA dependencies or helper programs) before installing GRASS for the first time. Check the frameworks page to make sure you have the appropriate framework versions.
 
 Legacy GRASS binaries from this site may not work with OS X 10.11 (*El Capitan*) and above unless you disable "System Integrity Protection". A workaround to allow GRASS to run is provided below.
 
