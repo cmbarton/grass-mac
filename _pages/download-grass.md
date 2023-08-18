@@ -84,7 +84,7 @@ Please report any bugs in the [GRASS issue tracker](https://github.com/OSGeo/gra
 
 ## Legacy GRASS apps (will not be further updated)
 
-These releases require you to have installed needed ***[frameworks](https://cmbarton.github.io/grass-mac/_pages/download-frameworks/)*** (AKA dependencies or helper programs) before installing GRASS for the first time. Check the frameworks page to make sure you have the appropriate framework versions.
+These releases require you to have installed needed ***[frameworks](https://cmbarton.github.io/grass-mac/_pages/download-frameworks)*** (AKA dependencies or helper programs) before installing GRASS for the first time. Check the frameworks page to make sure you have the appropriate framework versions.
 
 Legacy GRASS binaries from this site may not work with OS X 10.11 (*El Capitan*) and above unless you disable "System Integrity Protection". A workaround to allow GRASS to run is provided below.
 
