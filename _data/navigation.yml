@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: index
   - title: "Downloads"
-    url: /categories/
+    url: /download-grass/
   - title: "Forums"
     url: /tags/
   - title: "About"
