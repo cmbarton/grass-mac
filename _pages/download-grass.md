@@ -27,9 +27,9 @@ author_profile: false
 | GRASS 8.4dev Apple ARM | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 | GRASS 8.4dev Intel | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 
-### Features of Note{: .notice}
-***New Native Support for Apple ARM Processors{: .notice}***
-Thanks again to Nicklas Larsson for updating his build scripts to support the new, fast Apple ARM processors. Current versions to support prior Intel processors are also available.{: .notice}
+### Features of Note
+***New Native Support for Apple ARM Processors***
+Thanks again to Nicklas Larsson for updating his build scripts to support the new, fast Apple ARM processors. Current versions to support prior Intel processors are also available.
 
 ***All Dependencies Included***  
 These GRASS apps are packaged with all needed dependencies, which are detailed in an accompanying *configuration info* file. They include correct versions of Python and wxPython to run: Python 3 and wxPython 4 for GRASS versions 7.8 and higher, and Python 2.7 and wxPython v3 or 4 for earlier versions. Hopefully this will avoid any conflicts with other versions of GRASS dependencies you may have intentionally or inadvertently installed with other apps, and will run without needing to disable OS X System Integrity Protection.
