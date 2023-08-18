@@ -4,6 +4,7 @@ tags:
   - table of contents
 toc: true
 toc_sticky: true
+page__title: ""
 author_profile: false
 sidebar:
 - title: "Download GRASS Binary Apps for the Macintosh"
@@ -11,9 +12,8 @@ sidebar:
   image_alt: "image"
   text: "Current stable, development, and legacy binary apps"
 ---
-
+" "
 ## GRASS Software: Stable Releases
-
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
 | GRASS 8.3.0 Apple ARM | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
@@ -25,7 +25,6 @@ sidebar:
 
 
 ## GRASS Software: Development Releases
-
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
 | GRASS 8.4dev Apple ARM | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
