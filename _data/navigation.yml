@@ -3,6 +3,8 @@ main:
     url: index
   - title: "Downloads"
     url: _pages/download-grass/
+  - title: "Frameworks"
+    url: _pages/download-frameworks/
   - title: "Forums"
     url: /tags/
   - title: "About"
