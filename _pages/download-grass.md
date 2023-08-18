@@ -8,9 +8,9 @@ author_profile: false
 ---
 # Download GRASS Binary Apps for the Macintosh
 
-## GRASS Software: Stable Releases {: .notice}
+## GRASS Software: Stable Releases
 
-|Version |Date |Download Link |Configuration Info|
+| Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
 | GRASS 8.3.0 Apple ARM | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
 | GRASS 8.3.0 Intel | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
@@ -22,14 +22,14 @@ author_profile: false
 
 ## GRASS Software: Development Releases
 
-|Version |Date |Download Link |Configuration Info|
+| Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
 | GRASS 8.4dev Apple ARM | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 | GRASS 8.4dev Intel | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 
-### Features of Note
-***New Native Support for Apple ARM Processors*** {: .notice} 
-Thanks again to Nicklas Larsson for updating his build scripts to support the new, fast Apple ARM processors. Current versions to support prior Intel processors are also available.
+### Features of Note{: .notice}
+***New Native Support for Apple ARM Processors{: .notice}***
+Thanks again to Nicklas Larsson for updating his build scripts to support the new, fast Apple ARM processors. Current versions to support prior Intel processors are also available.{: .notice}
 
 ***All Dependencies Included***  
 These GRASS apps are packaged with all needed dependencies, which are detailed in an accompanying *configuration info* file. They include correct versions of Python and wxPython to run: Python 3 and wxPython 4 for GRASS versions 7.8 and higher, and Python 2.7 and wxPython v3 or 4 for earlier versions. Hopefully this will avoid any conflicts with other versions of GRASS dependencies you may have intentionally or inadvertently installed with other apps, and will run without needing to disable OS X System Integrity Protection.
@@ -86,7 +86,7 @@ Legacy GRASS binaries from this site may not work with OS X 10.11 (*El Capitan*)
 ### Selected legacy binaries for OSX 10.8+  
 These versions of GRASS are compiled with international support (gettext) and LiDAR (LASlib and tools) support. As far as I can tell, they work with Mac OS X version 10.8 (AKA "Lion") and above if System Integrity Protection is disabled.
 
-|Version |Date |Download Link |
+| Version | Date | Download Link |
 | :--- | ---: | :---: |
 | GRASS 7.6.2 64bit wxPython 3 | 8 Aug 2018 |[download](http://download.osgeo.org/grass/mac/grass-7.6.2.dmg.zip) |
 | GRASS 7.3 64bit wxPython 3  | 13 June 2016 | [download](http://download.osgeo.org/grass/mac/GRASS-7.3_64bit_wxp3.pkg.zip) |
@@ -98,13 +98,13 @@ These versions of GRASS are compiled with international support (gettext) and Li
 ### Selected legacy binaries for OSX 10.6+  
 These even older binaries for 10.6 seem to also run well with 10.8 and maybe above. However, they are based on system Python 2.5 and 2.6.
 
-|Version |Date |Download Link |
+| Version | Date | Download Link |
 | :--- | ---: | :---: |
 | GRASS 7.0 dev | 1 November 2013  | [download](http://download.osgeo.org/grass/mac/GRASS-7.0svn.pkg.zip) |
 | GRASS 6.5 dev | 31 October 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.5.pkg.zip) |
 | GRASS 6.4.3 stable | 30 July 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.4.3.pkg.zip) |
 
-**An archive of all GRASS binaries I've compiled for the Mac can be found at: [http://download.osgeo.org/grass/mac/](http://download.osgeo.org/grass/mac/)**
+**An archive of all GRASS binaries I've compiled for the Mac can be found on the [OSGEO server for GRASS for Mac binaries](http://download.osgeo.org/grass/mac/)**
 
 ### Known bugs in legacy versions  
 There are several known bugs to watch out for that affect the GUI:  
@@ -115,7 +115,7 @@ There are several known bugs to watch out for that affect the GUI:
 
 ### Installing and running legacy binaries
 **2-step installation of legacy GRASS binaries for the Mac**
-1. You need to download and install some helper programs, called *frameworks* (the same as "dependencies" on Linux systems). I've provided these as compiled packages on the **[frameworks page](/_pages/frameworks)**. William Kyngesburye compiled these frameworks and also has a [page with legacy frameworks](https://www.kyngchaos.com/software/grass/){:target="_blank"}. You can find the latest versions there. Be advised that the newest versions of these frameworks may not work with older legacy GRASS binaries. This is one of the reasons I switched to fully packaged apps with all such dependencies included.
+1. You need to download and install some helper programs, called *frameworks* (the same as "dependencies" on Linux systems). I've provided these as compiled packages on the **[frameworks page](/_pages/download-frameworks)**. William Kyngesburye compiled these frameworks and also has a [page with legacy frameworks](https://www.kyngchaos.com/software/grass/){:target="_blank"}. You can find the latest versions there. Be advised that the newest versions of these frameworks may not work with older legacy GRASS binaries. This is one of the reasons I switched to fully packaged apps with all such dependencies included.
 2. Then you just need to download one of the GRASS binaries above. Each downloaded app comes as a compressed disk image (**.zip* expanded to **.pkg*). You just double click and follow the instructions. Although these binaries automatically install directly into the Mac Applications folder, you can move them to another folder of your choice.
 
 **How to alter system settings in OS X 10.11 (El Capitan) and newer so that older GRASS binaries will run**  
