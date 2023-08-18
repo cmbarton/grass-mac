@@ -8,7 +8,7 @@ author_profile: false
 ---
 # Download GRASS Binary Apps for the Macintosh
 
-## GRASS Software: Stable Releases{: .notice}
+## GRASS Software: Stable Releases {: .notice}
 
 |Version |Date |Download Link |Configuration Info|
 | :--- | ---: | :---: | :---: |
@@ -28,7 +28,7 @@ author_profile: false
 | GRASS 8.4dev Intel | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 
 ### Features of Note
-***New Native Support for Apple ARM Processors***  
+***New Native Support for Apple ARM Processors*** {: .notice} 
 Thanks again to Nicklas Larsson for updating his build scripts to support the new, fast Apple ARM processors. Current versions to support prior Intel processors are also available.
 
 ***All Dependencies Included***  
@@ -79,11 +79,9 @@ The next time you launch GRASS, you should be able to install and compile any ex
 Please report any bugs in the [GRASS issue tracker](https://github.com/OSGeo/grass/issues){:target="_blank"}.  
 
 ## Old Legacy GRASS apps (will not be further updated)
-
 These releases require you to have installed needed ***![frameworks](_pages/frameworks)*** (AKA dependencies or helper programs) before installing GRASS for the first time. Check the frameworks page to make sure you have the appropriate framework versions.
 
-Legacy GRASS binaries from this site may not work with OS X 10.11 (*El Capitan*) and above unless you disable "System Integrity Protection". A workaround to allow GRASS to run is provided below.  
------
+Legacy GRASS binaries from this site may not work with OS X 10.11 (*El Capitan*) and above unless you disable "System Integrity Protection". A workaround to allow GRASS to run is provided below.
 
 ### Selected legacy binaries for OSX 10.8+  
 These versions of GRASS are compiled with international support (gettext) and LiDAR (LASlib and tools) support. As far as I can tell, they work with Mac OS X version 10.8 (AKA "Lion") and above if System Integrity Protection is disabled.
@@ -106,24 +104,21 @@ These even older binaries for 10.6 seem to also run well with 10.8 and maybe abo
 | GRASS 6.5 dev | 31 October 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.5.pkg.zip) |
 | GRASS 6.4.3 stable | 30 July 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.4.3.pkg.zip) |
 
-#### An archive of all GRASS binaries I've compiled for the Mac can be found at: [http://download.osgeo.org/grass/mac/](http://download.osgeo.org/grass/mac/)
+**An archive of all GRASS binaries I've compiled for the Mac can be found at: [http://download.osgeo.org/grass/mac/](http://download.osgeo.org/grass/mac/)**
 
 ### Known bugs in legacy versions  
 There are several known bugs to watch out for that affect the GUI:  
 1. The Wizard to create a custom location (projection/CRC) was broken in version 7.8.5. It is fixed in 7.8.6 and above. Other methods of creating a location work.  
 2. The digitizer module and the interactive supervised classification module (for satellite imagery) were unstable and crashed the GUI in older versions. You would need to restart the GUI by typing 'g.gui' into the terminal and hitting return. The raster digitizer was now working well in GRASS 7.5 but the vector digitizer was still broken. All is now fixed in GRASS 7.8 and above.  
 3. In GRASS 7.2.2, a few drop down controls (entry widgets) did not recognize mouse clicks. You need to use your arrow keys or type the entry for them to work. This is fixed in the later versions of GRASS.  
-4. In GRASS 7.2.2, when switching back from the 3D interface to the 2D interface, one of the 3D window control buttons (for fly through) would overwrite one of the 2D menu buttons (zoom to max). If you click this overwritten button, the GUI will crash and you will have to restart it (see #1). This is fixed in the later versions of GRASS.
+4. In GRASS 7.2.2, when switching back from the 3D interface to the 2D interface, one of the 3D window control buttons (for fly through) will overwrite one of the 2D menu buttons (zoom to max). If you click this overwritten button, the GUI will crash and you will have to restart it (see #1). This is fixed in the later versions of GRASS.
 
-### 2-step installation of legacy GRASS binaries for the Mac.
+### Installing and running legacy binaries
+**2-step installation of legacy GRASS binaries for the Mac**
+1. You need to download and install some helper programs, called *frameworks* (the same as "dependencies" on Linux systems). I've provided these as compiled packages on the **[frameworks page](/_pages/frameworks)**. William Kyngesburye compiled these frameworks and also has a [page with legacy frameworks](https://www.kyngchaos.com/software/grass/){:target="_blank"}. You can find the latest versions there. Be advised that the newest versions of these frameworks may not work with older legacy GRASS binaries. This is one of the reasons I switched to fully packaged apps with all such dependencies included.
+2. Then you just need to download one of the GRASS binaries above. Each downloaded app comes as a compressed disk image (**.zip* expanded to **.pkg*). You just double click and follow the instructions. Although these binaries automatically install directly into the Mac Applications folder, you can move them to another folder of your choice.
 
-***Step 1*** You need to download and install some helper programs, called *frameworks* (the same as "dependencies" on Linux systems). I've provided these as compiled packages on the **[/frameworks frameworks page]**. William Kyngesburye compiled these frameworks and also has a [page with legacy frameworks](https://www.kyngchaos.com/software/grass/){:target="_blank"}.
-
-You can find the latest versions there. Be advised that the newest versions of these frameworks may not work with older legacy GRASS binaries. This is one of the reasons I switched to fully packaged apps with all such dependencies included.
-
-***Step 2*** Then you just need to download one of the GRASS binaries above. Each downloaded app comes as a compressed disk image (**.zip* expanded to **.pkg*). You just double click and follow the instructions. Although these binaries automatically install directly into the Mac Applications folder, you can move them to another folder of your choice.
-
-### How to alter system settings in OS X 10.11 (El Capitan) and newer so that older GRASS binaries will run  
+**How to alter system settings in OS X 10.11 (El Capitan) and newer so that older GRASS binaries will run**  
 This is a work around that seems to allow you to run GRASS on a Mac after upgrading to the new Apple OS. It involves disabling a new *System Integrity Protection* feature. This reduces security of your system to the level it was before the El Capitan OS X release.
 
 1. Restart your Mac in *Recovery Mode*. To do this, choose **Restart** from the Apple menu, and as soon as the screen turns black hold down **Command + R** on the keyboard until the Apple logo appears on your screen.  
