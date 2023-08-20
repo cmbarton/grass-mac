@@ -1,8 +1,12 @@
 main:
   - title: "Home"
     url: index
-  - title: "Downloads"
-    url: _pages/download-grass/
+ - title: "Downloads"
+   children:
+    - title: "GRASS apps"
+      url: _pages/download-grass/
+    - title: "Legacy GRASS frameworks"
+      url: _pages/download-frameworks/
  # - title: "Frameworks"
  #   url: _pages/download-frameworks/
   - title: "Forums"
