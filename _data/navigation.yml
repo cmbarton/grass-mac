@@ -2,6 +2,7 @@ main:
   - title: "Home"
     url: index
  - title: "Downloads"
+   url: ""
    children:
     - title: "GRASS apps"
       url: _pages/download-grass/
