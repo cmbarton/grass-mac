@@ -6,6 +6,6 @@ main:
 # - title: "Frameworks"
 #   url: _pages/download-frameworks/
   - title: "Posts"
-    url: _posts
+    url: /tags/
   - title: "About"
     url: /about/
