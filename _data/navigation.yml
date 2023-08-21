@@ -5,11 +5,11 @@ main:
     url: _pages/download-grass/
 # - title: "Frameworks"
 #   url: _pages/download-frameworks/
-  - title: "Posts tags"
-    url: /tags/
-  - title: "Posts cat"
-    url: /categories/
-  - title: "Posts date"
+# - title: "Posts tags"
+#   url: /tags/
+# - title: "Posts cat"
+#   url: /categories/
+  - title: "Posts"
     url: /posts/
   - title: "About"
     url: /about/
