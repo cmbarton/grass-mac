@@ -2,7 +2,6 @@
 layout: single
 title: ""
 author_profile: false
-permalink: /frameworks/
 sidebar:
 - title: "Download Frameworks for Legacy GRASS for Mac binaries"
   image: assets/images/grasslogo.svg
