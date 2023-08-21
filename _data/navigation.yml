@@ -15,9 +15,9 @@ main:
     url: /about/
 
 posts:
-  - title: "By date"
+  - title: "by date"
     url: /posts/
-  - title: "By category"
+  - title: "by category"
     url: /categories/
-  - title: "By tag"
+  - title: "by tag"
     url: /tags/
