@@ -1,5 +1,5 @@
 ---
-title: "*Organized by tag*"
+title: "organized by tag"
 permalink: /tags/
 layout: tags
 author_profile: true

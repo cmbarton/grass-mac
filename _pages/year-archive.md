@@ -1,5 +1,5 @@
 ---
-title: "*Organized by date*"
+title: "organized by date"
 permalink: /posts/
 layout: posts
 author_profile: true
