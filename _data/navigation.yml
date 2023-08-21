@@ -10,7 +10,7 @@ main:
   - title: "Posts cat"
     url: /categories/
   - title: "Posts date"
-    url: _posts/
+    url: /posts/
   - title: "About"
     url: /about/
 
