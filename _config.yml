@@ -32,6 +32,7 @@ locale: "en-US"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -127,7 +128,7 @@ comments:
     category_id          : "DIC_kwDOKHjbsc4CYyYe"
     discussion_term      : "title"
     reactions_enabled    : 1
-    theme                : "preferred_color_scheme"
+    theme                : "light"
 
 category_archive:
   type: liquid
