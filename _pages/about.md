@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
+layout: "single"
 ---
 My interests center around long-term human ecology and landscape dynamics with ongoing projects in the Mediterranean (late Pleistocene through mid-Holocene) and prior work in the American Southwest (Holocene-Archaic). I've done fieldwork in Spain, Bosnia, and various locales in North America and have expertise in hunter/gatherer and early farming societies, geoarchaeology, lithic technology, and evolutionary theory, with an emphasis on human/environmental interaction, landscape dynamics, and techno-economic change. Quantitative and computational methods are critical to archaeological research, and socioecological sciences in general. They are an important focus of my research, especially emphasizing dynamic modeling, spatial technologies (including GIS and remote sensing), data science, and visualization.
 
