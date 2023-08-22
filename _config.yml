@@ -26,6 +26,7 @@ twitter_username: username
 github_username: cmbarton
 minimal_mistakes_skin: aqua
 search: true
+repository: cmbarton/grass-mac
 
 # Build settings
 markdown: kramdown
