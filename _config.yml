@@ -27,6 +27,7 @@ github_username: cmbarton
 minimal_mistakes_skin: aqua
 search: true
 repository: cmbarton/grass-mac
+locale: "en-US"
 
 # Build settings
 markdown: kramdown
@@ -117,6 +118,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "R_kgDOKHjbsQ"
+    category_name        : "Announcements"
+    category_id          : "DIC_kwDOKHjbsc4CYyYe"
+    discussion_term      : "title"
+    reactions_enabled    : 1
+    theme                : "light"
 
 category_archive:
   type: liquid
