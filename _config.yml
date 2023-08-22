@@ -27,6 +27,7 @@ github_username: cmbarton
 minimal_mistakes_skin: aqua
 search: true
 repository: "cmbarton/grass-mac"
+locale: "en-US"
 
 # Build settings
 markdown: kramdown
