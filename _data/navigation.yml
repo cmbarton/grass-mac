@@ -9,7 +9,7 @@ main:
 #   url: /tags/
 # - title: "Posts cat"
 #   url: /categories/
-  - title: "Posts"
+  - title: "News & Updates"
     url: /posts/
   - title: "About"
     url: /about/
