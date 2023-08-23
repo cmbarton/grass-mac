@@ -91,8 +91,8 @@ The next time you launch GRASS, you should be able to install and compile any ex
 
 Please report any bugs in the [GRASS issue tracker](https://github.com/OSGeo/grass/issues){:target="_blank"}.  
 
-## Legacy GRASS apps
-will not be further updated
+## Legacy GRASS apps  
+**will not be further updated**  
 {: .notice--warning}
 These releases require you to have installed needed ***[frameworks](download-frameworks.md)***  (AKA dependencies or helper programs) before installing GRASS for the first time. Check the frameworks page to make sure you have the appropriate framework versions.
 
