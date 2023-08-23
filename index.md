@@ -1,6 +1,16 @@
 ---
 layout: splash
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NBX5KDKM0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9NBX5KDKM0');
+</script>
+
 ![](assets/images/‎new_grassmac_spashscreen_transparent.png)
 ### _The world's best GIS for the world's best computers_
 
@@ -8,11 +18,11 @@ layout: splash
 
 These apps are fully 64 bit applications and include all needed helper programs (dependencies), including Python (version 2.7.x for older binaries and version 3.6 and above for GRASS versions 7.8 and higher) and wxPython (versions 3 and 4). They should work 'out of the box' without any separate "frameworks" being installed, and should work with System Integrity Protection enabled (the default for the Mac - see below).
 
-If you are not familiar with ***GRASS GIS***, you should visit the **[ main GRASS site](http://grass.osgeo.org)** and community maintained **[GRASS WIKI](http://grass.osgeo.org/wiki/)** to take a look at its features. Used throughout the world, GRASS is one of the most powerful and comprehensive geospatial analysis, visualization, and modeling tools available. In continuous use and development for over three decades, GRASS is one of the most mature GIS programs in active use and development ....and it is freely available to all. 
+If you are not familiar with ***GRASS GIS***, you should visit the **[ main GRASS site](http://grass.osgeo.org)** and community maintained **[GRASS WIKI](http://grass.osgeo.org/wiki/)** to take a look at its features. Used throughout the world, GRASS is one of the most powerful and comprehensive geospatial analysis, visualization, and modeling tools available. In continuous use and development for over three decades, GRASS is one of the most mature GIS programs in active use and development ....and it is freely available to all.
 
-<img align="left" src="/grass-mac/assets/images/OSGEOlogo.png" width=200> As open source software, the code and all analytical algorithms can be scrutinized and improved. It is developed and maintained by an international team of geospatial scientists who also use the software in their daily work. GRASS is a founding member of the **[OSGeo Foundation](http://osgeo.org)** (Open-Source Geospatial), an umbrella organization that provides a diversity of open-source software solutions for geospatial research, mapping, and interactive use. 
- 
-In addition to the Mac, GRASS runs under Linux, Unix, and Windows. Versions for these other platforms can be found at the **[downloads page](http://grass.osgeo.org/download/)** of GRASS main site. There is a very active **[GRASS community](https://grass.osgeo.org/about/community/)** where you can have questions answered, as well as extensive **[help online](https://grass.osgeo.org/learn/ )** and built into the program itself. 
+<img align="left" src="/grass-mac/assets/images/OSGEOlogo.png" width=200> As open source software, the code and all analytical algorithms can be scrutinized and improved. It is developed and maintained by an international team of geospatial scientists who also use the software in their daily work. GRASS is a founding member of the **[OSGeo Foundation](http://osgeo.org)** (Open-Source Geospatial), an umbrella organization that provides a diversity of open-source software solutions for geospatial research, mapping, and interactive use.
+
+In addition to the Mac, GRASS runs under Linux, Unix, and Windows. Versions for these other platforms can be found at the **[downloads page](http://grass.osgeo.org/download/)** of GRASS main site. There is a very active **[GRASS community](https://grass.osgeo.org/about/community/)** where you can have questions answered, as well as extensive **[help online](https://grass.osgeo.org/learn/ )** and built into the program itself.
 
 ## GRASS Apps for the Mac
 
@@ -26,8 +36,8 @@ I also maintain some legacy GRASS apps that require separate installation of som
 
 If you are interested in learning about my research, you can find more information at my [website](http://cmbarton.wikidot.com )
 
-## Fun GRASS History 
-GRASS GIS was first released on 29 July 1983 by the US Army Corps of Engineers, Construction Engineering Research Laboratories. The lead developers were Michael Shapiro, James Westervelt, Dave Gerdes, Michael Higgins, and Marjorie Larson. GRASS has been in continuous use and development for over 40 years. 
+## Fun GRASS History
+GRASS GIS was first released on 29 July 1983 by the US Army Corps of Engineers, Construction Engineering Research Laboratories. The lead developers were Michael Shapiro, James Westervelt, Dave Gerdes, Michael Higgins, and Marjorie Larson. GRASS has been in continuous use and development for over 40 years.
 
 ![](assets/images/grass_logo_animated.gif){: .align-left}
 [Click to watch Capt. James T. Kirk pitch GRASS in 1987](http://grassmac.wikidot.com/local--files/start/1987-07-17-GRASS-GIS_Shatner.mp4){:target="_blank"}  
