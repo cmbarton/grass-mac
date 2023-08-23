@@ -8,6 +8,16 @@ sidebar:
   image: assets/images/grasslogo.svg
   image_alt: "image"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NBX5KDKM0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9NBX5KDKM0');
+</script>
+
 These are the frameworks used to compile the legacy binaries available on this site. My binaries probably will not run (or will not run correctly) if you use framework versions older than these, but they may work with newer ones available from [William Kyngesburye](https://www.kyngchaos.com/software/){:target="_blank"}. **Because I am now bundling all dependencies in the GRASS app, I will not be updating this page further.**
 
 ## For Legacy Releases That Run on OS X 10.8 and Above
