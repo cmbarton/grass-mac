@@ -9,4 +9,3 @@ sidebar:
 ---
 
 # GRASS for Macintosh Announcements, Updates, and News
-{: .notice}
