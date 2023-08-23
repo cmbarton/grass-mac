@@ -136,3 +136,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+google_analytics:
+  tracking_id: 317770960
+
+  #stream id: 3610878340
+  #measurement id: G-9NBX5KDKM0
+  #PROPERTY ID: 317770960
