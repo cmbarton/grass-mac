@@ -8,4 +8,5 @@ sidebar:
     nav: "posts"
 ---
 
-# GRASS for Macintosh Announcements, Updates, and News {: .notice}
+# GRASS for Macintosh Announcements, Updates, and News
+{: .notice}
