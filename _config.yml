@@ -71,22 +71,22 @@ author:
   links:
     - label: "Contact"
       icon: "fas fa-fw fa-at"
-      url: "https://search.asu.edu/profile/24728"{:target="_blank"}
+      url: "https://search.asu.edu/profile/24728"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://cmbarton.wikidot.com"{:target="_blank"}
+      url: "http://cmbarton.wikidot.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cmbarton"{:target="_blank"}
+      url: "https://github.com/cmbarton"
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/C-Michael-Barton"{:target="_blank"}
+      url: "https://www.researchgate.net/profile/C-Michael-Barton"
     - label: "Orcid"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0003-2561-1927"{:target="_blank"}
+      url: "https://orcid.org/0000-0003-2561-1927"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=_X0uLJkAAAAJ&hl=en"{:target="_blank"}
+      url: "https://scholar.google.com/citations?user=_X0uLJkAAAAJ&hl=en"
       
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -99,22 +99,22 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grassgis"{:target="_blank"}
+      url: "https://twitter.com/grassgis"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://fosstodon.org/@grassgis"{:target="_blank"}
+      url: "https://fosstodon.org/@grassgis"
     - label: "Gitter"
       icon: "fab fa-fw fa-gitter"
-      url: "https://gitter.im/grassgis/community"{:target="_blank"}
+      url: "https://gitter.im/grassgis/community"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/OSGeo/grass"{:target="_blank"}
+      url: "https://github.com/OSGeo/grass"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/groups/GRASS"{:target="_blank"}
+      url: "https://www.facebook.com/groups/GRASS"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/results?search_query=grass+gis"{:target="_blank"}
+      url: "https://www.youtube.com/results?search_query=grass+gis"
 
 defaults:
   # _posts
