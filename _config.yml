@@ -69,6 +69,9 @@ author:
   avatar : "/assets/images/cmb_headshot.jpeg"
   bio    : "A complexity scientist who studies long-term dynamics of socioecological systems"
   links:
+    - label: "Contact"
+      icon: "fas fa-fw fa-at"
+      url: "https://search.asu.edu/profile/24728"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://public.asu.edu/~cmbarton"
