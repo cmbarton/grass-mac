@@ -31,7 +31,7 @@ sidebar:
 | GRASS 8.2.1 Apple ARM | 3 Apr 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.2.1-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.2.1-arm64_configure_info.txt){:target="_blank"} |
 | GRASS 8.2.1 Intel | 23 Jan 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.2.1-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.2.1_configure_info.txt){:target="_blank"} |
 | GRASS 7.8.8 Apple ARM | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
-| GRASS 7.8.6 Intel | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
+| GRASS 7.8.8 Intel | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
 
 ## GRASS Software: Development Releases
 
@@ -56,13 +56,13 @@ These versions of GRASS are compiled with international support for multiple lan
 ***LiDAR Processing Support***  
 Versions 7.8.6dev and higher are now compiled with **libLAS** so that all GRASS LiDAR processing tools work within the GRASS environment. PDAL support is catching up in GRASS 8.
 
-GRASS versions 7.8.3 and above are compiled with **PDAL** library support for reading and manipulating LAS LiDAR files within GRASS. For some reason, the input module (v.in.pdal) does not show up in the menus in GRASS 7 (it does in GRASS 8). You'll have to run it from the terminal or console (v.in.pdal&). Command line PDAL tools can also be run from the GRASS terminal. I also have bundled the **LAStools** command line utilities which you can run from the command line. These utility programs allow you to read/write LAS (lasinfo, las2las, las2txt, txt2las) and LAZip files (laszip), do filtering and processing (lasdiff, lasindex, lasmerge, lasprecision), and translate them into csv formats that GRASS can read (las2txt).
+GRASS versions 7.8.3 and above are compiled with **PDAL** library support for reading and manipulating LAS LiDAR files within GRASS. For some reason, the input module (v.in.pdal) does not show up in the menus in GRASS 7 (it does in GRASS 8). You'll have to run it from the terminal or console ```v.in.pdal&```. Command line PDAL tools can also be run from the GRASS terminal. I also have bundled the **LAStools** command line utilities which you can run from the command line. These utility programs allow you to read/write LAS (lasinfo, las2las, las2txt, txt2las) and LAZip files (laszip), do filtering and processing (lasdiff, lasindex, lasmerge, lasprecision), and translate them into csv formats that GRASS can read (las2txt).
 
 ***Advanced Features in GRASS 8***  
 GRASS 8 now includes a new **data catalog** window that provides a much easier way to manage and access GRASS data directories, locations, and maps. This is a major enhancement in usability. Note that it will not recognize your GRASS 7 configuration files and you'll have to respecify your database and any other preferences.  
 (**Alert** If you happen to have a filename of a 2D or 3D map with the "@" symbol, the data catalog will fail and only partly open at start up, but there is no error message).
 
-GRASS 8.3 has a new **single window GUI interface**. This is the most significant change in the GUI since GRASS 6. It is nicely organized, with all GRASS features as panes within a single window that you can place and resize on the desktop. If you like the look of QGIS or ArcGIS, or regularly use Linux or Windows, this may be just the thing for you. If you prefer the older, more Mac-like multi-window interface, you return to that by hecking the box for it in preferences/general and closing/restarting the GUI (type g.gui from the terminal after closing the GUI).
+GRASS 8.3 has a new **single window GUI interface**. This is the most significant change in the GUI since GRASS 6. It is nicely organized, with all GRASS features as panes within a single window that you can place and resize on the desktop. If you like the look of QGIS or ArcGIS, or regularly use Linux or Windows, this may be just the thing for you. If you prefer the older, more Mac-like multi-window interface, you return to that by unchecking the box for the single window mode in preferences/appearance and closing/restarting the GUI (type ```g.gui``` from the terminal after closing the GUI).
 
 ### Installing GRASS for Mac  
 1. Download and unzip the *.dmg installation package  
