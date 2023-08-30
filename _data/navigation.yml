@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: index
   - title: "Downloads"
-    url: _pages/download-grass/
+    url: /download/
 # - title: "Frameworks"
 #   url: _pages/download-frameworks/
 # - title: "Posts tags"
