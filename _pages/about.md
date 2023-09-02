@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 layout: "single"
+class: wide
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9NBX5KDKM0"></script>
