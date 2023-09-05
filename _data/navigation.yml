@@ -1,14 +1,6 @@
 main:
-  - title: "Home"
-    url: index
   - title: "Downloads"
     url: /download/
-# - title: "Frameworks"
-#   url: _pages/download-frameworks/
-# - title: "Posts tags"
-#   url: /tags/
-# - title: "Posts cat"
-#   url: /categories/
   - title: "News & Updates"
     url: /posts/
   - title: "About"
