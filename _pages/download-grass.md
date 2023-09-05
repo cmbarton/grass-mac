@@ -133,7 +133,7 @@ There are several known bugs to watch out for that affect the GUI:
 **2-step installation of legacy GRASS binaries for the Mac**
 1. You need to download and install some helper programs, called *frameworks* (the same as "dependencies" on Linux systems). I've provided these as compiled packages on the **[frameworks page](https://cmbarton.github.io/grass-mac/_pages/download-frameworks.md)**.
 
-[frameworks1 page](/frameworks/)
+[frameworks2]({% link download-frameworks.md %})
 
 
 
