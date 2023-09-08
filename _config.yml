@@ -71,7 +71,7 @@ author:
       url: "https://search.asu.edu/profile/24728"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://cmbarton.wikidot.com"
+      url: "http://cmbarton.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmbarton"
