@@ -34,13 +34,13 @@ The current ones are fully bundled with all needed dependencies included in the 
 
 I also maintain some legacy GRASS apps that require separate installation of some dependencies as "frameworks" (provided on the frameworks page). The oldest legacy versions will run on OS X 10.6 and above up to???. Newer legacy versions will run on OS X 10.8 and above. These legacy versions use Python 2.7 that came pre-installed on earlier versions of the Mac OS, and have a bundled wxPython 2.8.12 (for the GUI) so that you don't have to download it.
 
-If you are interested in learning about my research, you can find more information at my [website](http://cmbarton.wikidot.com )
+If you are interested in learning about my research, you can find more information at my [website](http://cmbarton.github.io)
 
 ## Fun GRASS History
 GRASS GIS was first released on 29 July 1983 by the US Army Corps of Engineers, Construction Engineering Research Laboratories. The lead developers were Michael Shapiro, James Westervelt, Dave Gerdes, Michael Higgins, and Marjorie Larson. GRASS has been in continuous use and development for over 40 years.
 
 ![](assets/images/grass_logo_animated.gif){: .align-left}
-[Click to watch Capt. James T. Kirk pitch GRASS in 1987](http://grassmac.wikidot.com/local--files/start/1987-07-17-GRASS-GIS_Shatner.mp4){:target="_blank"}  
+[Click to watch Capt. James T. Kirk pitch GRASS in 1987](/assets/files/1987-07-17-GRASS-GIS_Shatner.mp4){:target="_blank"}  
 (this is an MP4 version of a movie narrated by William Shatner)  
 
 [Here is an article in Wired about this movie](https://www.wired.com/2013/08/shatner-loves-digital-maps/){:target="_blank"}   
