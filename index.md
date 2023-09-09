@@ -47,4 +47,7 @@ GRASS GIS was first released on 29 July 1983 by the US Army Corps of Engineers, 
 
 Here is a copy of the [manual for GRASS 3.0 ](assets/files/grass3_manual.pdf){:target="_blank"}, released in 1989
 
-And here are links to a [presentation](https://www.youtube.com/watch?v=olRSbZ1UpJI&t=1475s ){:target="_blank"} by GRASS developer Martin Landa and [slides](https://ctu-geoforall-lab.github.io/grass-gis-talk-foss4g-2023/foss4g2023.html#){:target="_blank"}  summarizing the state of GRASS 8.3, 40 years after the software was first released.
+## GRASS Future
+Here are links to a [presentation](https://www.youtube.com/watch?v=olRSbZ1UpJI&t=1475s ){:target="_blank"} by GRASS developer Martin Landa and [slides](https://ctu-geoforall-lab.github.io/grass-gis-talk-foss4g-2023/foss4g2023.html#){:target="_blank"}  summarizing the state of GRASS 8.3, 40 years after the software was first released.
+
+![](assets/images/NSF_Official_logo_smallest.png){: .align-right style="width: 10%;"}The [National Science Foundation](https://www.nsf.gov/) recently awarded a new grant to grow and enhance the GRASS GIS open source ecosystem. Read about it [here](https://grass.osgeo.org/news/2023_09_06_nsf_grant_awarded/){:target="_blank"}  
