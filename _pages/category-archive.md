@@ -2,6 +2,7 @@
 title: "organized by category"
 permalink: /categories/
 layout: categories
+classes: wide
 author_profile: false
 sidebar:
   - title: "Organize posts..."

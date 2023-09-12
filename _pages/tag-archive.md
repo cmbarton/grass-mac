@@ -2,6 +2,7 @@
 title: "organized by tag"
 permalink: /tags/
 layout: tags
+classes: wide
 author_profile: false
 sidebar:
   - title: "Organize posts..."

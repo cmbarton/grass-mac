@@ -2,6 +2,7 @@
 title: "organized by date"
 permalink: /posts/
 layout: posts
+classes: wide
 author_profile: false
 sidebar:
   - title: "Organize posts..."
