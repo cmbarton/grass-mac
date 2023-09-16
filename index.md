@@ -1,5 +1,6 @@
 ---
 layout: splash
+# URL to reach old wikidot WWW site with redirect to this site: http://grassmac.wikidot.com/about/noredirect/true
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9NBX5KDKM0"></script>
