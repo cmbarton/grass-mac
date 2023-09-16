@@ -72,7 +72,7 @@
 -
   index: 'map_15'
   country_name: 'BELGIUM'
-  visited: true
+  visited: false
 
 -
   index: 'map_16'
@@ -107,7 +107,7 @@
 -
   index: 'map_22'
   country_name: 'BRAZIL'
-  visited: false
+  visited: true
 
 -
   index: 'map_23'
@@ -142,7 +142,7 @@
 -
   index: 'map_29'
   country_name: 'CANADA'
-  visited: false
+  visited: true
 
 -
   index: 'map_30'
@@ -227,7 +227,7 @@
 -
   index: 'map_46'
   country_name: 'DOMINICAN REPUBLIC'
-  visited: true
+  visited: false
 
 -
   index: 'map_47'
@@ -317,12 +317,12 @@
 -
   index: 'map_64'
   country_name: 'GUATEMALA'
-  visited: true
+  visited: false
 
 -
   index: 'map_65'
   country_name: 'GUINEA'
-  visited: true
+  visited: false
 
 -
   index: 'map_66'
@@ -337,7 +337,7 @@
 -
   index: 'map_68'
   country_name: 'HAITI'
-  visited: true
+  visited: false
 
 -
   index: 'map_69'
@@ -387,7 +387,7 @@
 -
   index: 'map_78'
   country_name: 'ITALY'
-  visited: false
+  visited: true
 
 -
   index: 'map_79'
@@ -522,7 +522,7 @@
 -
   index: 'map_105'
   country_name: 'MEXICO'
-  visited: true
+  visited: false
 
 -
   index: 'map_106'
@@ -542,7 +542,7 @@
 -
   index: 'map_109'
   country_name: 'MOROCCO'
-  visited: true
+  visited: false
 
 -
   index: 'map_110'
@@ -662,7 +662,7 @@
 -
   index: 'map_133'
   country_name: 'ROMANIA'
-  visited: true
+  visited: false
 
 -
   index: 'map_134'
@@ -682,7 +682,7 @@
 -
   index: 'map_137'
   country_name: 'SENEGAL'
-  visited: true
+  visited: false
 
 -
   index: 'map_138'
@@ -697,7 +697,7 @@
 -
   index: 'map_140'
   country_name: 'SIERRA LEONE'
-  visited: true
+  visited: false
 
 -
   index: 'map_141'
@@ -802,12 +802,12 @@
 -
   index: 'map_161'
   country_name: 'THAILAND'
-  visited: true
+  visited: false
 
 -
   index: 'map_162'
   country_name: 'THE GAMBIA'
-  visited: true
+  visited: false
 
 -
   index: 'map_163'
@@ -827,7 +827,7 @@
 -
   index: 'map_166'
   country_name: 'TURKEY'
-  visited: true
+  visited: false
 
 -
   index: 'map_167'
@@ -852,7 +852,7 @@
 -
   index: 'map_171'
   country_name: 'UNITED KINGDOM'
-  visited: false
+  visited: true
 
 -
   index: 'map_172'
@@ -898,12 +898,3 @@
   index: 'map_180'
   country_name: 'ZIMBABWE'
   visited: false
-
-
-
-
-
-
-
-
-
