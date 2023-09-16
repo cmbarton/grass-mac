@@ -19,6 +19,7 @@ subtitle: "GRASS GIS for the Macintosh"
 email:
 description: "GRASS GIS apps for the Apple Macintosh OS"
 url: "https:/cmbarton.github.io/grass-mac"
+baseurl: "/grass-mac"
 twitter_username: username
 github_username: cmbarton
 minimal_mistakes_skin: aqua
