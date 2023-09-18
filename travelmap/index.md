@@ -19,13 +19,13 @@ css: [../plugins/travelmap/css/custom.css']
 <table>
 <tbody>
 <tr class="color" bgcolor="#232B5B">
-  <td class="color-name">
+  <td class="color" color="#FFFFFF">
     <h4>downloads</h4>
   </td>
 </tr>
 
 <tr class="color" bgcolor="#68939E">
-  <td class="color-name">
+  <td class="color" color="#FFFFFF">
     <h4>no downloads</h4>
   </td>
 </tr>
