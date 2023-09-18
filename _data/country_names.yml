@@ -1,7 +1,7 @@
 -
   index: 'map_1'
-  country_name: 'AFGHANISTAN'
-  # country_name: 'AFGHANISTAN<br><span style="color: yellow;">*Link each country to any webpage*</span>'
+  # country_name: 'AFGHANISTAN'
+  country_name: 'AFGHANISTAN<br><span style="color: yellow;">*Link each country to any webpage*</span>'
   visited: true
 
 -

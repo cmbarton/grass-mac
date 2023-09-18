@@ -230,18 +230,6 @@ css: [../plugins/travelmap/css/custom.css']
   </div>
 </div>
 </div>
-
-## TABLE
-
-| heading 1 | heading 2 |
-| :---: | :---: |
-| body 1 | body 2 |
-| body 1 | body 2 |
-
-| Version | Date | Download Link | Configuration Info|
-| :--- | ---: | :---: | :---: |
-| GRASS 8.3.0 Apple ARM | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
-
 <!--end map-preview-->
 
 <span id="map-tip"></span> <span id="scroll-top"><a class="scrollup"></a></span>
