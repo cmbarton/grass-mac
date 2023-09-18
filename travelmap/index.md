@@ -3,10 +3,9 @@ layout: default
 title: My Travel Map
 css: [../plugins/travelmap/css/custom.css']
 ---
+## Countries of Users Visiting GRASS for Macintosh Download Page
+### 2021-2023
 
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -278,3 +277,10 @@ var pin_config = {
 }
 
 </script>
+
+</script>
+
+| heading 1 | heading 2 |
+| :---: | :---: |
+| body 1 | body 2 |
+| body 1 | body 2 |
