@@ -18,7 +18,7 @@ css: [../plugins/travelmap/css/custom.css']
     <div class="container">
 <table>
 <tbody>
-<tr class="color" bgcolor="#232B5B">
+<tr class="color" bgcolor="#232B5B" color="White">
   <td class="color-name">
     <h4>downloads</h4>
   </td>
