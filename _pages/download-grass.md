@@ -131,7 +131,9 @@ There are several known bugs to watch out for that affect the GUI:
 
 ### Installing and running legacy binaries
 **2-step installation of legacy GRASS binaries for the Mac**
-1. You need to download and install some helper programs, called *frameworks* (the same as "dependencies" on Linux systems). I've provided these as compiled packages on the **[frameworks page](https://cmbarton.github.io/grass-mac/_pages/download-frameworks.md)**. William Kyngesburye compiled these frameworks and also has a [page with legacy frameworks](https://www.kyngchaos.com/software/){:target="_blank"}. You can find the latest versions there. Be advised that the newest versions of these frameworks may not work with older legacy GRASS binaries. This is one of the reasons I switched to fully packaged apps with all such dependencies included.
+1. You need to download and install some helper programs, called *frameworks* (the same as "dependencies" on Linux systems). I've provided these as compiled packages on the **[frameworks page](/grass-mac/frameworks/)
+
+[old link](https://cmbarton.github.io/grass-mac/_pages/download-frameworks.md)**. William Kyngesburye compiled these frameworks and also has a [page with legacy frameworks](https://www.kyngchaos.com/software/){:target="_blank"}. You can find the latest versions there. Be advised that the newest versions of these frameworks may not work with older legacy GRASS binaries. This is one of the reasons I switched to fully packaged apps with all such dependencies included.
 2. Then you just need to download one of the GRASS binaries above. Each downloaded app comes as a compressed disk image (**.zip* expanded to **.pkg*). You just double click and follow the instructions. Although these binaries automatically install directly into the Mac Applications folder, you can move them to another folder of your choice.
 
 **How to alter system settings in OS X 10.11 (El Capitan) and newer so that older GRASS binaries will run**  
