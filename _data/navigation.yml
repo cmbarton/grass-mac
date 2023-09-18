@@ -3,6 +3,8 @@ main:
     url: /download/
   - title: "News & Updates"
     url: /posts/
+  - title: "User Map"
+    url: /downloadsmap/
   - title: "About"
     url: /about/
 
