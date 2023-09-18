@@ -18,13 +18,13 @@ css: [../plugins/travelmap/css/custom.css']
     <div class="container">
 <table>
 <tbody>
-<tr class="color" bgcolor="#FFFFFF">
+<tr class="color" bgcolor="#232B5B">
   <td class="color-name">
     <h4>downloads</h4>
   </td>
 </tr>
 
-<tr class="color" bgcolor="#FFFFFF">
+<tr class="color" bgcolor="#68939E">
   <td class="color-name">
     <h4>no downloads</h4>
   </td>
@@ -260,13 +260,13 @@ var pin_config = {
     'points':[
 
     {
-        'shape':'circle',
-        'hover': 'I\'m from North Carolina.',
-        'pos_X':208,
-        'pos_Y':166,
-        'diameter':12,
+        'shape':'',
+        'hover': '',
+        'pos_X':0,
+        'pos_Y':0,
+        'diameter':0,
         'outline':'#FFCECE',
-        'thickness':1,
+        'thickness':0,
         'upColor':'#68939E',
         'overColor':'#00587E',
         'downColor':'#00587E',
