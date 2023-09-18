@@ -18,14 +18,14 @@ css: [../plugins/travelmap/css/custom.css']
     <div class="container">
 <table>
 <tbody>
-<tr class="color" bgcolor="#232B5B">
-  <td class="color" color="#FFFFFF">
+<tr class="color" bgcolor="#FFFFFF">
+  <td class="color-name">
     <h4>downloads</h4>
   </td>
 </tr>
 
-<tr class="color" bgcolor="#68939E">
-  <td class="color" color="#FFFFFF">
+<tr class="color" bgcolor="#FFFFFF">
+  <td class="color-name">
     <h4>no downloads</h4>
   </td>
 </tr>
