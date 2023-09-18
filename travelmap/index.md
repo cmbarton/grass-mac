@@ -1,6 +1,7 @@
 ---
-layout: default
-title: My Travel Map
+layout: splash
+title: GRASS for Mac Downloads Map
+permalink: /downloadsmap/
 css: [../plugins/travelmap/css/custom.css']
 ---
 ## Countries of Users Visiting GRASS for Macintosh Download Page (2021-2023)
