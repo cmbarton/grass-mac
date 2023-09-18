@@ -3,8 +3,7 @@ layout: default
 title: My Travel Map
 css: [../plugins/travelmap/css/custom.css']
 ---
-## Countries of Users Visiting GRASS for Macintosh Download Page
-### 2021-2023
+## Countries of Users Visiting GRASS for Macintosh Download Page (2021-2023)
 
 <html lang="en">
 <head>
@@ -21,13 +20,13 @@ css: [../plugins/travelmap/css/custom.css']
 <tbody>
 <tr class="color" bgcolor="#232B5B">
   <td class="color-name">
-    <h4>Visited</h4>
+    <h4>downloads</h4>
   </td>
 </tr>
 
 <tr class="color" bgcolor="#68939E">
   <td class="color-name">
-    <h4>Unvisited</h4>
+    <h4>no downloads</h4>
   </td>
 </tr>
 </tbody>
@@ -276,9 +275,7 @@ var pin_config = {
     ]
 }
 
-</script>
-
-</script>
+</script>   
 
 | heading 1 | heading 2 |
 | :---: | :---: |

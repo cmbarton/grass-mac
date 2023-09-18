@@ -162,7 +162,7 @@
 -
   index: 'map_33'
   country_name: 'CHINA'
-  visited: True
+  visited: true
 
 -
   index: 'map_34'
@@ -287,12 +287,12 @@
 -
   index: 'map_58'
   country_name: 'GABON'
-  visited: tru
+  visited: true
 
 -
   index: 'map_59'
   country_name: 'GEORGIA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_60'
@@ -302,12 +302,12 @@
 -
   index: 'map_61'
   country_name: 'GHANA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_62'
   country_name: 'GREECE'
-  visited: tru
+  visited: true
 
 -
   index: 'map_63'
@@ -317,7 +317,7 @@
 -
   index: 'map_64'
   country_name: 'GUATEMALA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_65'
@@ -327,7 +327,7 @@
 -
   index: 'map_66'
   country_name: 'GUINEA-BISSAU'
-  visited: tru
+  visited: true
 
 -
   index: 'map_67'
@@ -342,17 +342,17 @@
 -
   index: 'map_69'
   country_name: 'HONDURAS'
-  visited: tru
+  visited: true
 
 -
   index: 'map_70'
   country_name: 'HUNGARY'
-  visited: tru
+  visited: true
 
 -
   index: 'map_71'
   country_name: 'ICELAND'
-  visited: tru
+  visited: true
 
 -
   index: 'map_72'
@@ -362,27 +362,27 @@
 -
   index: 'map_73'
   country_name: 'INDONESIA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_74'
   country_name: 'IRAN'
-  visited: tru
+  visited: true
 
 -
   index: 'map_75'
   country_name: 'IRAQ'
-  visited: tru
+  visited: true
 
 -
   index: 'map_76'
   country_name: 'IRELAND'
-  visited: tru
+  visited: true
 
 -
   index: 'map_77'
   country_name: 'ISREAL'
-  visited: tru
+  visited: true
 
 -
   index: 'map_78'
@@ -392,7 +392,7 @@
 -
   index: 'map_79'
   country_name: 'JAMAICA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_80'
@@ -402,27 +402,27 @@
 -
   index: 'map_81'
   country_name: 'JORDAN'
-  visited: tru
+  visited: true
 
 -
   index: 'map_82'
   country_name: 'KAZAKHSTAN'
-  visited: tru
+  visited: true
 
 -
   index: 'map_83'
   country_name: 'KENYA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_84'
   country_name: 'KOSOVO'
-  visited: tru
+  visited: true
 
 -
   index: 'map_85'
   country_name: 'KUWAIT'
-  visited: tru
+  visited: true
 
 -
   index: 'map_86'
@@ -437,12 +437,12 @@
 -
   index: 'map_88'
   country_name: 'LATVIA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_89'
   country_name: 'LEBANON'
-  visited: tru
+  visited: true
 
 -
   index: 'map_90'
@@ -457,22 +457,22 @@
 -
   index: 'map_92'
   country_name: 'LIBYA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_93'
   country_name: 'LIECHTENSTEIN'
-  visited: tru
+  visited: true
 
 -
   index: 'map_94'
   country_name: 'LITHUANIA'
-  visited: tru
+  visited: true
 
 -
   index: 'map_95'
   country_name: 'LUXEMBOURG'
-  visited: tru
+  visited: true
 
 -
   index: 'map_96'
@@ -482,7 +482,7 @@
 -
   index: 'map_97'
   country_name: 'MADAGASCAR'
-  visited: tru
+  visited: true
 
 -
   index: 'map_98'
