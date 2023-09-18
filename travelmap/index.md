@@ -3,6 +3,9 @@ layout: default
 title: My Travel Map
 css: [../plugins/travelmap/css/custom.css']
 ---
+<h1>Countries of Users Visting the GRASS for Macintosh Download Page <i>(2021-2023)</i></h1>
+<br>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
