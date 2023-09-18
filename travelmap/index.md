@@ -276,15 +276,3 @@ var pin_config = {
 }
 
 </script>    -->
-
-## TABLE
-
-| heading 1 | heading 2 |
-| :---: | :---: |
-| body 1 | body 2 |
-| body 1 | body 2 |
-
-| Version | Date | Download Link | Configuration Info|
-| :--- | ---: | :---: | :---: |
-| GRASS 8.3.0 Apple ARM | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
-| GRASS 8.3.0 Intel | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
