@@ -251,3 +251,28 @@ css: [../plugins/travelmap/css/custom.css']
         {% endfor %}
     }
 </script>
+
+
+<!-- where am I from -->
+<script type="text/javascript">
+var pin_config = {
+    'default':{     'pinShadow':'#000',     'pinShadowOpacity':'50',    },
+    'points':[
+
+    {
+        'shape':'circle',
+        'hover': 'I\'m from North Carolina.',
+        'pos_X':208,
+        'pos_Y':166,
+        'diameter':12,
+        'outline':'#FFCECE',
+        'thickness':1,
+        'upColor':'#68939E',
+        'overColor':'#00587E',
+        'downColor':'#00587E',
+        'enable':false,
+    },
+    ]
+}
+
+</script>   
