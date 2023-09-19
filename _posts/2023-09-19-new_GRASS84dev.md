@@ -1,5 +1,5 @@
 ---
-title: "New grant for the GRASS community from the National Science Foundation"
+title: "New GRASS 8.4 preview to fix 2 major bugs in v.8.3.0"
 excerpt_separator: "<!--more-->"
 categories:
   - Announcement
@@ -16,10 +16,6 @@ tags:
   gtag('config', 'G-9NBX5KDKM0');
 </script>
 
-GRASS team members from four U.S. universities have been awarded a prestigious grant (award 2303651) from the U.S. National Science Foundation (NSF) to bolster and broaden the software ecosystem of GRASS GIS. See the overview [here](https://grass.osgeo.org/news/2023_09_06_nsf_grant_awarded/). The universities awarded the grant are:
-- *North Carolina State University* (Helena Mitasova, Vaclav (Vashek) Petras, Anna Petrasova)
-- *Arizona State University* (Michael Barton),
-- *New Mexico State University* (Huidae Cho),
-- *Yale University* (Giuseppe Amatulli)
+Two major bugs were recently identified in GRASS 8.3.0 affecting r.watershed and the Cartographic Composer. These have both been fixed and we are working to test and release an updated version 8.3.1 soon. In the meantime, I compiled a new version 8.4 preview with both bugs fixed. 
 
-This project will support new training programs for GRASS users and developers (see [annouoncement](https://grasswiki.osgeo.org/wiki/Mentoring_Program)), documentation improvements, better integration of GRASS with other platforms, and additional enhancements to the GRASSS community. Watch the [GRASS GIS site](https://grass.osgeo.org/) and [email lists and other media](https://grass.osgeo.org/about/community/) for new announcements about activities in this exciting project.
+A remaining issue in version 8.4 to be aware of is that if you open a workspace created in an earlier version, it will show up with a display window disconnected from the main single window interface.
