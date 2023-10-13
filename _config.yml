@@ -70,24 +70,24 @@ author:
     - label: "Contact"
       icon: "fas fa-fw fa-at"
       url: "https://search.asu.edu/profile/24728"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://fosstodon.org/@cmbarton"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://cmbarton.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmbarton"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=_X0uLJkAAAAJ&hl=en"
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/C-Michael-Barton"
     - label: "Orcid"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0003-2561-1927"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=_X0uLJkAAAAJ&hl=en"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://fosstodon.org/@cmbarton"
 
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -120,7 +120,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_"
       type: posts
     values:
       layout: single
