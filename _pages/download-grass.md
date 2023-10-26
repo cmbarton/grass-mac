@@ -85,7 +85,7 @@ Extensions written in pure Python will install without any problems. If an exten
 2. You can just install the Command Line Tools from the terminal, without installing the full Xcode package. Launch a terminal window (The terminal app is found in the /Applications/Utilities folder). Type the following, followed by a return.
 
 ```
-xcode-select —install
+xcode-select --install
 ```
 
 The next time you launch GRASS, you should be able to install and compile any extension.
