@@ -78,7 +78,7 @@ Current stable and preview versions of GRASS should launch without any special p
 
 Because I do not have permission to authenticate ("sign") Mac apps, older version of these binaries may fail Apple's verification test. To run them, you ***may*** need to control-click the app and select "**open**" the first time you run an app you have downloaded. After verification fails, you will be given the option to "open" the app anyway. You only have to do this once for each app or version you download. I and others have noticed that after doing this, the app may close and you will have to double click it again, and it may take some time to launch initially. After the first time, each app should open quickly and without issue.
 
-***Installing GRASS extension***  
+***Installing GRASS extensions***  
 Extensions written in pure Python will install without any problems. If an extension is in a language that needs to be compiled (e.g., C or C++), you must have Apple's Command Line Tools installed. You can do this in a couple of ways.
 
 1. You can install the full Xcode package (quite large). Once it opens, install the Developer Command Line tools from the Xcode menu.  
