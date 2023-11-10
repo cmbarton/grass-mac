@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: GRASS for Mac
 # URL to reach old wikidot WWW site with redirect to this site: http://grassmac.wikidot.com/about/noredirect/true
 ---
 <!-- Google tag (gtag.js) -->
