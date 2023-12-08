@@ -3,10 +3,10 @@ title: "organized by date"
 permalink: /posts/
 layout: posts
 classes: wide
-author_profile: false
 sidebar:
   - title: "Organize posts..."
     nav: "posts"
+author_profile: true
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9NBX5KDKM0"></script>

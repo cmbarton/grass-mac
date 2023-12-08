@@ -1,5 +1,6 @@
 ---
 title: "Welcome to the new GRASS for Macintosh site"
+author_profile: true
 excerpt_separator: "<!--more-->"
 categories:
   - Announcement
