@@ -1,6 +1,7 @@
 ---
 title: "New GRASS 8.4 preview to fix 2 major bugs in v.8.3.0"
-author_profile: true
+layout: "single"
+class: wide
 excerpt_separator: "<!--more-->"
 categories:
   - Announcement

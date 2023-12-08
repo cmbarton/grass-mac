@@ -1,6 +1,7 @@
 ---
 title: "New grant for the GRASS community from the National Science Foundation"
-author_profile: true
+layout: "single"
+class: wide
 excerpt_separator: "<!--more-->"
 categories:
   - Announcement
