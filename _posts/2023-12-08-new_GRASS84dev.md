@@ -1,6 +1,6 @@
 ---
 title: "New GRASS 8.4 preview"
-layout: "single"
+llayout: "single"
 class: wide
 excerpt_separator: "<!--more-->"
 categories:
