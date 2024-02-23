@@ -27,8 +27,8 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.3.1 Apple ARM | 26 Oct 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.1-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.1_configure_info.txt){:target="_blank"} |
-| GRASS 8.3.1 Intel | 26 Oct 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.1-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.1_configure_info.txt){:target="_blank"} |
+| GRASS 8.3.1 Apple ARM | 26 Oct 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.1_configure_info.txt){:target="_blank"} |
+| GRASS 8.3.1 Intel | 26 Oct 2023 | [download](http://download.osgeo.org/grass/mac/ggrass-8.3.2RC1-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.1_configure_info.txt){:target="_blank"} |
 | GRASS 8.3.0 Apple ARM | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
 | GRASS 8.3.0 Intel | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
 | GRASS 7.8.8 Apple ARM | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
@@ -38,6 +38,8 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
+| GRASS 8.3.2RC1 Apple ARM | 23 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
+| GRASS 8.3.2RC1 Intel | 23 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
 | GRASS 8.4dev Apple ARM | 9 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 | GRASS 8.4dev Intel | 9 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 
@@ -49,7 +51,7 @@ Thanks again to Nicklas Larsson for updating his build scripts to support the ne
 These GRASS apps are packaged with all needed dependencies, which are detailed in an accompanying *configuration info* file. They include correct versions of Python and wxPython to run: Python 3 and wxPython 4 for GRASS versions 7.8 and higher, and Python 2.7 and wxPython v3 or 4 for earlier versions. Hopefully this will avoid any conflicts with other versions of GRASS dependencies you may have intentionally or inadvertently installed with other apps, and will run without needing to disable OS X System Integrity Protection.
 
 ***Mac OS X support***  
-These newest apps were built under macOS 12 (AKA Monterey). I don't know which older Mac OS versions will run this app--probably OS X 10.13 and above, possibly older OS X versions.
+The ARM versions were built for MacOS 14 (AKA Ventura) and the Intel versions were built for macOS 12 (AKA Monterey). I don't know which older Mac OS versions will run this app--probably OS X 10.13 and above for the Intel versions, possibly older OS X versions too.
 
 ***International Language Support***  
 These versions of GRASS are compiled with international support for multiple languages (gettext).
