@@ -38,8 +38,8 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.3.2RC1 Apple ARM | 23 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
-| GRASS 8.3.2RC1 Intel | 23 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
+| GRASS 8.3.2RC1 Apple ARM | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
+| GRASS 8.3.2RC1 Intel | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
 | GRASS 8.4dev Apple ARM | 9 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 | GRASS 8.4dev Intel | 9 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 
@@ -51,7 +51,7 @@ Thanks again to Nicklas Larsson for updating his build scripts to support the ne
 These GRASS apps are packaged with all needed dependencies, which are detailed in an accompanying *configuration info* file. They include correct versions of Python and wxPython to run: Python 3 and wxPython 4 for GRASS versions 7.8 and higher, and Python 2.7 and wxPython v3 or 4 for earlier versions. Hopefully this will avoid any conflicts with other versions of GRASS dependencies you may have intentionally or inadvertently installed with other apps, and will run without needing to disable OS X System Integrity Protection.
 
 ***Mac OS X support***  
-The ARM versions were built for MacOS 14 (AKA Ventura) and the Intel versions were built for macOS 12 (AKA Monterey). I don't know which older Mac OS versions will run this app--probably OS X 10.13 and above for the Intel versions, possibly older OS X versions too.
+The ARM versions were built for MacOS 11 and the Intel versions were built for macOS 10.13. I don't know if older Mac OS versions will run this app, but they might--at least for the Intel version.
 
 ***International Language Support***  
 These versions of GRASS are compiled with international support for multiple languages (gettext).
