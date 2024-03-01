@@ -40,8 +40,8 @@ sidebar:
 | :--- | ---: | :---: | :---: |
 | GRASS 8.3.2RC1 Apple ARM | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
 | GRASS 8.3.2RC1 Intel | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1_configure_info.txt){:target="_blank"} |
-| GRASS 8.4dev Apple ARM | 9 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
-| GRASS 8.4dev Intel | 9 Feb 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.4dev Apple ARM | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.4dev Intel | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4dev_configure_info.txt){:target="_blank"} |
 
 ### Features of Note
 ***New Native Support for Apple ARM Processors***
@@ -122,7 +122,8 @@ These even older binaries for 10.6 seem to also run well with 10.8 and maybe abo
 | GRASS 6.5 dev | 31 October 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.5.pkg.zip) |
 | GRASS 6.4.3 stable | 30 July 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.4.3.pkg.zip) |
 
-**An archive of all GRASS binaries I've compiled for the Mac can be found on the [OSGEO server for GRASS for Mac binaries](http://download.osgeo.org/grass/mac/)**
+### Binary archive (GRASS 6.4.3-current)
+An archive of all GRASS binaries I've compiled for the Mac can be found on the [OSGEO server for GRASS for Mac binaries](http://download.osgeo.org/grass/mac/)
 
 ### Known bugs in legacy versions  
 There are several known bugs to watch out for that affect the GUI:  
