@@ -27,11 +27,9 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.3.1 Apple ARM | 26 Oct 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.1_configure_info.txt){:target="_blank"} |
+| GRASS 8.3.1 Apple ARM | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.3.2RC1-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.1_configure_info.txt){:target="_blank"} |
 | GRASS 8.3.1 Intel | 26 Oct 2023 | [download](http://download.osgeo.org/grass/mac/ggrass-8.3.2RC1-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.1_configure_info.txt){:target="_blank"} |
-| GRASS 8.3.0 Apple ARM | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
-| GRASS 8.3.0 Intel | 24 Jun 2023 | [download](http://download.osgeo.org/grass/mac/grass-8.3.0-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.3.0_configure_info.txt){:target="_blank"} |
-| GRASS 7.8.8 Apple ARM | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
+| GRASS 7.8.8 Apple ARM | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
 | GRASS 7.8.8 Intel | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
 
 ## GRASS Software: Preview Releases
