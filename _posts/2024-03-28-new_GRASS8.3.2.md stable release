@@ -1,0 +1,21 @@
+---
+title: "New GRASS 8.3.2 stable release"
+layout: "single"
+class: wide
+excerpt_separator: "<!--more-->"
+categories:
+  - Announcement
+tags:
+  - Information
+---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NBX5KDKM0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9NBX5KDKM0');
+</script>
+
+GRASS 8.3.2 was just released and I've now posted new binaries for both Apple ARM and Intel processors. Enjoy!
