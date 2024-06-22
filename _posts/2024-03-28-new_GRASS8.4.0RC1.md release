@@ -1,0 +1,23 @@
+---
+title: "GRASS 8.4.0 Release Candidate 1 now available"
+layout: "single"
+class: wide
+excerpt_separator: "<!--more-->"
+categories:
+  - Announcement
+tags:
+  - Information
+---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9NBX5KDKM0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9NBX5KDKM0');
+</script>
+
+GRASS 8.4.0 RC1 was release a few days ago. I've posted new binaries for both Apple ARM and Intel processors. Information on enhancements and fixes can be found at: [https://github.com/OSGeo/grass/releases](https://github.com/OSGeo/grass/releases)
+
+We are moving toward a final v. 8.4.0 stable release soon. Enjoy!
