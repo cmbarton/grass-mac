@@ -36,8 +36,8 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.5.0dev Apple ARM | 5 Aug 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
-| GRASS 8.5.0dev Intel | 5 Aug 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Apple ARM | 11 Sep 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Intel | 11 Sep 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
 
 ### Features of Note
 ***New Native Support for Apple ARM Processors***
