@@ -27,17 +27,17 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.4.0 Apple ARM | 5 Aug 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4.0_configure_info.txt){:target="_blank"} |
-| GRASS 8.4.0 Intel | 5 Aug 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.4.0-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.4.0_configure_info.txt){:target="_blank"} |
-| GRASS 7.8.8 Apple ARM | 1 Mar 2024 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
-| GRASS 7.8.8 Intel | 14 Aug 2023 | [download](http://download.osgeo.org/grass/mac/grass-7.8.8-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
+| GRASS 8.4.0 Apple ARM | 5 Aug 2024 | [download](https://download.osgeo.org/grass/mac/grass-8.4.0-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.4.0_configure_info.txt){:target="_blank"} |
+| GRASS 8.4.0 Intel | 5 Aug 2024 | [download](https://download.osgeo.org/grass/mac/grass-8.4.0-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.4.0_configure_info.txt){:target="_blank"} |
+| GRASS 7.8.8 Apple ARM | 1 Mar 2024 | [download](https://download.osgeo.org/grass/mac/grass-7.8.8-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
+| GRASS 7.8.8 Intel | 14 Aug 2023 | [download](https://download.osgeo.org/grass/mac/grass-7.8.8-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
 
 ## GRASS Software: Preview Releases
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.5.0dev Apple ARM | 11 Sep 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
-| GRASS 8.5.0dev Intel | 11 Sep 2024 | [download](http://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](http://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Apple ARM | 11 Sep 2024 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Intel | 11 Sep 2024 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
 
 ### Features of Note
 ***New Native Support for Apple ARM Processors***
@@ -102,24 +102,24 @@ These versions of GRASS are compiled with international support (gettext) and Li
 
 | Version | Date | Download Link |
 | :--- | ---: | :---: |
-| GRASS 7.6.2 64bit wxPython 3 | 8 Aug 2018 |[download](http://download.osgeo.org/grass/mac/grass-7.6.2.dmg.zip) |
-| GRASS 7.3 64bit wxPython 3  | 13 June 2016 | [download](http://download.osgeo.org/grass/mac/GRASS-7.3_64bit_wxp3.pkg.zip) |
-| GRASS 7.3 development  | 14 Sept 2016 | [download](http://download.osgeo.org/grass/mac/GRASS-7.3_2016-09.pkg.zip) |
-| GRASS 7.2 development  | 14 Sept 2016 | [download](http://download.osgeo.org/grass/mac/GRASS-7.2svn.pkg.zip) |
-| GRASS 7.0.5 stable  |  3 Oct 2016 | [download](http://download.osgeo.org/grass/mac/GRASS-7.0.5.pkg.zip) |
-| GRASS 6.4.6 svn  | 28 Apr 2016 | [download](http://download.osgeo.org/grass/mac/GRASS-6.4svn.pkg.zip) |
+| GRASS 7.6.2 64bit wxPython 3 | 8 Aug 2018 |[download](https://download.osgeo.org/grass/mac/grass-7.6.2.dmg.zip) |
+| GRASS 7.3 64bit wxPython 3  | 13 June 2016 | [download](https://download.osgeo.org/grass/mac/GRASS-7.3_64bit_wxp3.pkg.zip) |
+| GRASS 7.3 development  | 14 Sept 2016 | [download](https://download.osgeo.org/grass/mac/GRASS-7.3_2016-09.pkg.zip) |
+| GRASS 7.2 development  | 14 Sept 2016 | [download](https://download.osgeo.org/grass/mac/GRASS-7.2svn.pkg.zip) |
+| GRASS 7.0.5 stable  |  3 Oct 2016 | [download](https://download.osgeo.org/grass/mac/GRASS-7.0.5.pkg.zip) |
+| GRASS 6.4.6 svn  | 28 Apr 2016 | [download](https://download.osgeo.org/grass/mac/GRASS-6.4svn.pkg.zip) |
 
 ### Selected legacy binaries for OSX 10.6+  
 These even older binaries for 10.6 seem to also run well with 10.8 and maybe above. However, they are based on system Python 2.5 and 2.6.
 
 | Version | Date | Download Link |
 | :--- | ---: | :---: |
-| GRASS 7.0 dev | 1 November 2013  | [download](http://download.osgeo.org/grass/mac/GRASS-7.0svn.pkg.zip) |
-| GRASS 6.5 dev | 31 October 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.5.pkg.zip) |
-| GRASS 6.4.3 stable | 30 July 2013 | [download](http://download.osgeo.org/grass/mac/GRASS-6.4.3.pkg.zip) |
+| GRASS 7.0 dev | 1 November 2013  | [download](https://download.osgeo.org/grass/mac/GRASS-7.0svn.pkg.zip) |
+| GRASS 6.5 dev | 31 October 2013 | [download](https://download.osgeo.org/grass/mac/GRASS-6.5.pkg.zip) |
+| GRASS 6.4.3 stable | 30 July 2013 | [download](https://download.osgeo.org/grass/mac/GRASS-6.4.3.pkg.zip) |
 
 ### Binary archive (GRASS 6.4.3-current)
-An archive of all GRASS binaries I've compiled for the Mac can be found on the [OSGEO server for GRASS for Mac binaries](http://download.osgeo.org/grass/mac/)
+An archive of all GRASS binaries I've compiled for the Mac can be found on the [OSGEO server for GRASS for Mac binaries](https://download.osgeo.org/grass/mac/)
 
 ### Known bugs in legacy versions  
 There are several known bugs to watch out for that affect the GUI:  
