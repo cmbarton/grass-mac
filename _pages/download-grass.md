@@ -47,9 +47,9 @@ the GRASS app *"is Damaged and Can’t Be Opened. You Should Move It To The Tras
 
 Be assured that the GRASS app is NOT damaged and IS free of malware. If you get this message, however, you will need to run a short command in the terminal to enable it to run for you.
 
-Open the terminal.app (in Applications/Utilities) and paste one of the following commands (depending on which GRASS version is blocked) onto the command line and press return. 
+Open the terminal.app (in Applications/Utilities) and paste one of the following commands (depending on which GRASS version is blocked) onto the command line and press return.
 
-xattr -c /Applications/GRASS-8.5.app
+xattr -c /Applications/GRASS-8.5.app   
 xattr -c /Applications/GRASS-8.4.app
 
 GRASS should then open without a problem, at least until you update it or update your OS. You may have to re-enter the command in that case.
