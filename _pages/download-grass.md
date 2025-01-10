@@ -39,8 +39,8 @@ sidebar:
 | GRASS 8.5.0dev Apple ARM | 11 Sep 2024 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
 | GRASS 8.5.0dev Intel | 11 Sep 2024 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
 
-### IMPORTANT Apple security block and workaround
-Because of new Apple Mac OS security scans of software not from the AppStore or not officially "signed" by Apple, you may see a message:  
+### IMPORTANT Apple security block and workaround for GRASS versions downloaded in 2024 and prior to 9 January 2025
+Because of new Apple Mac OS security scans of software not from the AppStore or not officially "signed" by Apple, if you downloaded GRASS in 2024 prior to 9 January 2025 you may see a message:  
 
 the GRASS app *"is Damaged and Can’t Be Opened. You Should Move It To The Trash"* or
 *"Apple could not verify “GRASS-8.5.app is free of malware that may harm your Mac or compromise your privacy."*
@@ -54,7 +54,7 @@ xattr -c /Applications/GRASS-8.4.app
 
 GRASS should then open without a problem, at least until you update it or update your OS. You may have to re-enter the command in that case.
 
-We are working on a solution and hope to have it soon so that this is not needed.
+As of 9 January 2025 the newest GRASS 8.4 and 8.5 distributions are now officially 'signed' and this workaround should not be needed.
 
 ### Features of Note
 ***New Native Support for Apple ARM Processors***
