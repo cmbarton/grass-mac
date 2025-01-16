@@ -22,4 +22,4 @@ tags:
 
 However, with the new Mac OS 15 (Sequoia) upgrade the lack of signing the GRASS app became a more serious problem, generating a bogus error that the app is damaged for any new or upgraded installation. Fortunately, Nicklas Larsson found a workaround terminal command, which I added to the GRASS installation instructions in December 2024. Then he has worked out a way to officially sign and notarize the GRASS Mac apps so we no longer will have problems arising from an unsigned app. Regularizing this protocol is still a little ad hoc, but Nicklas is working on refactoring Mac compiling within the GRASS Github repo to make it easier for all. In the meantime, we'll work together to continue to make the most up to date versions of GRASS available for Mac users.
 
-I've posted the new signed apps that Niclas generated for you to enjoy. Happy GRASSing!
+I've posted the new signed apps that Nicklas generated for you to enjoy. Happy GRASSing!
