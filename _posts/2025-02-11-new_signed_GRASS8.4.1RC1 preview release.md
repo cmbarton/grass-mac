@@ -20,6 +20,8 @@ tags:
 
 The GRASS dev team has just released a new GRASS 8.4.1 release candidate 1 for you to try out. It contains over 70 new featues and bug fixes. You can find the full list [here](https://github.com/OSGeo/grass/releases/tag/8.4.1RC1).
 
+New builds of GRASS 8.5dev are also posted now. 
+
 Thanks for Nicklas Larsson for creating officially signed Mac binaries. I've posted them on the downloads page.
 
 Enjoy!
