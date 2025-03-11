@@ -36,8 +36,6 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.4.1RC1 Apple ARM | 2 Feb 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.4.1RC1-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.4.1RC1_configure_info.txt){:target="_blank"} |
-| GRASS 8.4.1RC1 Intel | 2 Feb 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.4.1RC1-x86_64.dmg) | [download](https://download.osgeo.org/grass/grass-8.4.1RC1_configure_info.txt){:target="_blank"} |
 | GRASS 8.5.0dev Apple ARM | 12 Feb 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
 | GRASS 8.5.0dev Intel | 12 Feb 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
 
