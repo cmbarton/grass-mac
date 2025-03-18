@@ -36,8 +36,8 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.5.0dev Apple ARM | 12 Feb 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
-| GRASS 8.5.0dev Intel | 12 Feb 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Apple ARM | 13 Mar 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Intel | 13 Mar 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
 
 ### IMPORTANT Apple security block and workaround for GRASS versions downloaded in 2024 and prior to 9 January 2025
 Because of new Apple Mac OS security scans of software not from the AppStore or not officially "signed" by Apple, if you downloaded GRASS in 2024 prior to 9 January 2025 you may see a message:  
