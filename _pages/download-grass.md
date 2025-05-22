@@ -27,8 +27,8 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.4.1 Apple ARM | 25 Feb 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.4.1-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.4.1_configure_info.txt){:target="_blank"} |
-| GRASS 8.4.1 Intel | 25 Feb 2025| [download](https://download.osgeo.org/grass/mac/grass-8.4.1-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.4.1_configure_info.txt){:target="_blank"} |
+| GRASS 8.4.1 Apple ARM | 9 May 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.4.1-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.4.1_configure_info.txt){:target="_blank"} |
+| GRASS 8.4.1 Intel | 9 May 2025| [download](https://download.osgeo.org/grass/mac/grass-8.4.1-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.4.1_configure_info.txt){:target="_blank"} |
 | GRASS 7.8.8 Apple ARM | 1 Mar 2024 | [download](https://download.osgeo.org/grass/mac/grass-7.8.8-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
 | GRASS 7.8.8 Intel | 14 Aug 2023 | [download](https://download.osgeo.org/grass/mac/grass-7.8.8-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-7.8.8_configure_info.txt){:target="_blank"}  |
 
@@ -36,8 +36,8 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.5.0dev Apple ARM | 13 Mar 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5dev_configure_info.txt){:target="_blank"} |
-| GRASS 8.5.0dev Intel | 13 Mar 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Apple ARM | 8 May 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Intel | 8 May 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
 
 ### IMPORTANT Apple security block and workaround for GRASS versions downloaded in 2024 and prior to 9 January 2025
 Because of new Apple Mac OS security scans of software not from the AppStore or not officially "signed" by Apple, if you downloaded GRASS in 2024 prior to 9 January 2025 you may see a message:  
