@@ -1,5 +1,5 @@
 ---
-title: "New GRASS binaries with fixes for Intel versions"
+title: "New GRASS binaries for development version 8.5"
 layout: "single"
 class: wide
 excerpt_separator: "<!--more-->"
