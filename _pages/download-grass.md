@@ -36,8 +36,13 @@ sidebar:
 
 | Version | Date | Download Link | Configuration Info|
 | :--- | ---: | :---: | :---: |
-| GRASS 8.5.0dev Apple ARM | 13 Oct 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
-| GRASS 8.5.0dev Intel | 13 Oct 2025 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Apple ARM | 11 April 2026 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-arm64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
+| GRASS 8.5.0dev Intel | 11 April 2026 | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev-x86_64.dmg) | [download](https://download.osgeo.org/grass/mac/grass-8.5.0dev_configure_info.txt){:target="_blank"} |
+
+### IMPORTANT information for users of old Macs with Intel CPU
+Although GRASS 8 compiles with no errors for Intel CPUs, there have been reports that recent versions (8.4 and 8.5) will not run on older Macs using the Intel CPU. For users of older Intel Macs, there are a couple possible solutions.
+1. Try an older version. You can find binary executable apps for many older GRASS versions at the [OSGEO server for GRASS for Mac binaries](https://download.osgeo.org/grass/mac/)
+2. Try compiling it yourself. GRASS 8.5 and above can now be compiled by anyone with a Mac fairly simply. See the information below in "Features of Note".
 
 ### IMPORTANT Apple security block and workaround for GRASS versions downloaded in 2024 and prior to 9 January 2025
 Because of new Apple Mac OS security scans of software not from the AppStore or not officially "signed" by Apple, if you downloaded GRASS in 2024 prior to 9 January 2025 you may see a message:  
@@ -57,6 +62,23 @@ GRASS should then open without a problem, at least until you update it or update
 As of 9 January 2025 the newest GRASS 8.4 and 8.5 distributions are now officially 'signed' and this workaround should not be needed.
 
 ### Features of Note
+***New easy compiling of current GRASS versions for personal used***
+Thanks to Nicklas Larsson, the source code for GRASS 8.5 and above can be compiled quite easily for any Mac user.
+1. Download the GRASS source code. You can use GitHub to clone the current dev branch or simply download the zipped file for the most current development version [here](https://github.com/OSGeo/grass/archive/refs/heads/main.zip).
+2. Make sure you have the current XCode *command line tools* for your Mac installed. If you have not installed the *command line tools*, you can do so from the terminal. Open the terminal.app (in Applications/Utilities) and enter the following
+
+```
+xcode-select --install
+```
+and respond to any prompts
+
+3. In the terminal cd to the GRASS source code folder (e.g., cd/users/myname/grass)
+4. Run the following command in the Terminal
+
+```
+./macos/build_grass_app.bash
+```
+
 ***New Native Support for Apple ARM Processors***
 Thanks again to Nicklas Larsson for updating his build scripts to support the new, fast Apple ARM processors. Current versions to support prior Intel processors are also available.
 
